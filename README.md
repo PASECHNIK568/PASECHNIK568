@@ -11,7 +11,7 @@
 
 <p align="center">
   <img alt="Анимированная гифка с кодом" 
-       src="[https://www.pinterest.com/pin/650699846161342017/]"
+       src="[[https://www.pinterest.com/pin/650699846161342017/](https://i.pinimg.com/originals/1f/8c/34/1f8c34116da10d6c12aadc6f11264367.gif)]"
        width="500"
        style="max-width: 100%;">
 </p>
