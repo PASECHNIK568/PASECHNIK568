@@ -10,8 +10,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=15&pause=1000&width=435&lines=%D0%A3%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE%D0%BA+%D0%BA%D1%83%D0%BF%D0%B8%D0%BB+%D1%81%D0%B5%D0%B1%D0%B5+Toxic+Bullets;%D0%9D%D0%BE+%D0%BC%D0%B5%D0%BD%D1%8F+%D1%8D%D1%82%D0%BE+%D0%B2%D0%BE%D0%BE%D0%B1%D1%89%D0%B5+%D0%BD%D0%B5+%D0%B2%D0%BE%D0%BB%D0%BD%D1%83%D0%B5%D1%82;%D0%98%D0%B4%D1%83+%D0%B2+%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%2C+%D0%B1%D0%B5%D1%80%D1%83+Debuff+Remover;Metal+Skin+%D1%88%D0%BB%D1%91%D1%82+%D0%BD%D0%B0+***+%D1%82%D0%B2%D0%BE%D0%B8+%D0%BF%D1%83%D0%BB%D0%B8" alt="Typing SVG" /></a>
 
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4dd4736b-74ef-4039-a488-7446bcb0ea6a" />
 
-![65558620e2e0d26dd4e69fb59c188710](https://github.com/user-attachments/assets/b8dd8622-1341-4e23-ab5d-88bf4a135ffa)  ![UJ5R5OaNm4bd2VT1Kbjr2YNP6p4LyANJKYpuIEfNaXn3772m09lY2XmUslcHx4cjXLO1D78erf8TJrWYiydwUNxPPTiEnbGR8TmX8madnqvfrDUuoiqYEci1iOq1OY5Y jpeg](https://github.com/user-attachments/assets/e93df4be-cd51-4d48-97e8-d722add1083a)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PASECHNIK568&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
+
