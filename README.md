@@ -16,4 +16,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PASECHNIK568&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://cdn.simpleicons.org/DOTA2 /1b2838" height="25">
+<img src="assets/<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/37994121-3367-41e3-87af-a66dc7eae530" />
+" width="30" height="30">
