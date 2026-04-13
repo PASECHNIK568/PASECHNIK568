@@ -14,39 +14,3 @@
 ![65558620e2e0d26dd4e69fb59c188710](https://github.com/user-attachments/assets/b8dd8622-1341-4e23-ab5d-88bf4a135ffa)  ![UJ5R5OaNm4bd2VT1Kbjr2YNP6p4LyANJKYpuIEfNaXn3772m09lY2XmUslcHx4cjXLO1D78erf8TJrWYiydwUNxPPTiEnbGR8TmX8madnqvfrDUuoiqYEci1iOq1OY5Y jpeg](https://github.com/user-attachments/assets/e93df4be-cd51-4d48-97e8-d722add1083a)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PASECHNIK568&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
