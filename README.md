@@ -16,3 +16,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PASECHNIK568&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://cdn.simpleicons.org/steam/1b2838" height="25">
