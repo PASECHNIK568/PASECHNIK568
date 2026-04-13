@@ -1,4 +1,5 @@
-<h1 align="center">КУ Я Тимофей</h1>
+![Header](./your-header-image-name.png) <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/17f50cae-5fac-4477-9655-2bb458c14320" />
+
 <h3 align="center">Я один из студентов Заполярного государственного университета, который учится на разработчика, что в наших реалиях уже опрометчиво. Своих проектов пока что нет, так как ещё не делал, но надеюсь появится, есть пара идей. В свободное время поигрываю в игры. Играю в Deadlock,DOTA2, CS2, Tom Clancy’s Rainbow Six Siege, а так же играю в однопользовательские игры. Интересны такие геймдизайнеры как Хидэо Кодзима, IceFrog. </h3>
 
 
